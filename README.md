@@ -2,6 +2,13 @@
 
 The Turtle Road Crossing Game is a fun and challenging arcade-style game where the player controls a turtle attempting to cross a busy road. The objective is to navigate the turtle safely across the road while avoiding oncoming traffic. The game is implemented using Python's Turtle module.
 
+## Gameplay Video
+
+[![Gameplay Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/O3YgSC7W8fo?feature=share)
+
+Click the image above to watch the gameplay video.
+
+
 ## Gameplay
 
 - **Controls:**

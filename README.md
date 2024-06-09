@@ -4,9 +4,10 @@ The Turtle Road Crossing Game is a fun and challenging arcade-style game where t
 
 ## Gameplay Video
 
-[![Gameplay Video](https://img.youtube.com/vi/YOUR_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=https://youtube.com/shorts/O3YgSC7W8fo?feature=share)
+[![Gameplay Video](https://img.youtube.com/vi/O3YgSC7W8fo/0.jpg)](https://www.youtube.com/watch?v=O3YgSC7W8fo)
 
 Click the image above to watch the gameplay video.
+
 
 
 ## Gameplay
